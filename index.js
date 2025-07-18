@@ -32,7 +32,7 @@ app.get("/", (req, res) => {
             {
                 id: 5,
                 name: "Abdul",
-                salary: 90000
+                salary: 10000
             },
         ]
     )
